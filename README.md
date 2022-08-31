@@ -1,1 +1,1 @@
-Our README file for project AirBnB clone
+Our readme file for AirBnB clone Project
