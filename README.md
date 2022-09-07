@@ -45,7 +45,7 @@ EOF  all  create  destroy  help  quit  show  update
 ```
 
 ## Authors
-* Ahmed Belhaj [Theemiss](https://github.com/Theemiss)
-*  Mohamed Salah Besbes [salah_besbes](https://github.com/salahbesbes)
+* Muoneke Franklin [Franklinjr02](https://github.com/Franklinjr02)
+* Olaobaju Boluwatife [Bholuh](https://github.com/Bholuh)
 
 <p align="center"><img 
